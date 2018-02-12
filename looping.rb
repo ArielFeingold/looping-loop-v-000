@@ -1,5 +1,7 @@
-def looping do
-  puts "I have found the Time Machine!"
+def looping
+  loop do
+    puts "I have found the Time Machine!"
+  end
 end
 
 #call your method here
